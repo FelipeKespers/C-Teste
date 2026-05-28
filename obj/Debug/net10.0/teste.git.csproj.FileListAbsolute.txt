@@ -1,0 +1,14 @@
+C:\Users\felipe.kespers\Desktop\teste.git\bin\Debug\net10.0\teste.git.exe
+C:\Users\felipe.kespers\Desktop\teste.git\bin\Debug\net10.0\teste.git.deps.json
+C:\Users\felipe.kespers\Desktop\teste.git\bin\Debug\net10.0\teste.git.runtimeconfig.json
+C:\Users\felipe.kespers\Desktop\teste.git\bin\Debug\net10.0\teste.git.dll
+C:\Users\felipe.kespers\Desktop\teste.git\bin\Debug\net10.0\teste.git.pdb
+C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\teste.git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\teste.git.AssemblyInfoInputs.cache
+C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\teste.git.AssemblyInfo.cs
+C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\teste.git.csproj.CoreCompileInputs.cache
+C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\teste.git.dll
+C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\refint\teste.git.dll
+C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\teste.git.pdb
+C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\teste.git.genruntimeconfig.cache
+C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\ref\teste.git.dll
