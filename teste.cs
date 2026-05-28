@@ -5,14 +5,30 @@ class EntradaSaida
     static void Main()
     {
         Console.Write("Digite o seu nome: ");
-        string nome = Console.ReadLine();
-        
+        string nome = Console.ReadLine(); 
         Console.Write("Digite seu sobrenome: ");
         string sobrenome = Console.ReadLine();
 
         Console.Write("Digite a sua idade: ");
-        int idade = int.Parse(Console.ReadLine()); 
-        
-        Console.WriteLine($"Olá, {nome} {sobrenome}! Você tem {idade} anos.");
+        int idade = int.Parse(Console.ReadLine());
+
+        bool eMaiorDeIdade = idade >= 18;
+
+            Console.WriteLine($"Olá, {nome} {sobrenome}!");
+
+            if (eMaiorDeIdade)
+            {
+                Console.WriteLine("Você é maior de idade, Você te");
+            }
+            else
+            {
+                Console.WriteLine("Você é menor de idade.");
+            }
+              
     }
 }
+
+
+
+
+    

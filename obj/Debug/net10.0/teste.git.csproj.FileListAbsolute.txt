@@ -12,3 +12,4 @@ C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\refint\teste.git.dll
 C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\teste.git.pdb
 C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\teste.git.genruntimeconfig.cache
 C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\ref\teste.git.dll
+C:\Users\felipe.kespers\Desktop\teste.git\obj\Debug\net10.0\teste.git.sourcelink.json
