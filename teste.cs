@@ -5,7 +5,8 @@ class EntradaSaida
     static void Main()
     {
         Console.Write("Digite o seu nome: ");
-        string nome = Console.ReadLine(); 
+        string nome = Console.ReadLine();
+        
         Console.Write("Digite seu sobrenome: ");
         string sobrenome = Console.ReadLine();
 
