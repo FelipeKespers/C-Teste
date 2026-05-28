@@ -18,11 +18,11 @@ class EntradaSaida
 
             if (eMaiorDeIdade)
             {
-                Console.WriteLine("Você é maior de idade, Você te");
+                Console.WriteLine($"Você é maior de idade, você tem {idade} anos.");
             }
             else
             {
-                Console.WriteLine("Você é menor de idade.");
+                Console.WriteLine($"Você é menor de idade, você tem {idade} anos.");
             }
               
     }
